@@ -17,7 +17,7 @@ class Database:
             prefix=None,
             suffix=None,
             metadata=False,
-            metadata_code=""" -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Encoded By :- @Madflix_Bots" -metadata author="@JishuDeveloper" -metadata:s:s title="Subtitled By :- @Madflix_Bots" -metadata:s:a title="By :- @Madflix_Bots" -metadata:s:v title="Encoded By :- @Madflix_Bots" """
+            metadata_code=""" -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Encoded By :- @Straw_Hat_Bots" -metadata author="@Straw_Hat_Bots" -metadata:s:s title="Subtitled By :- @Straw_Hat_Bots" -metadata:s:a title="By :- @Straw_Hat_Bots" -metadata:s:v title="Encoded By :- @Straw_Hat_Bots" """
         )
 
     async def add_user(self, b, m):
