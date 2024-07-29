@@ -8,7 +8,7 @@ from route import web_server
 import pyromod
 import pyrogram.utils
 
-pyrogram.utils.MIN_CHANNEL_ID = -1009147483647
+pyrogram.utils.MIN_CHANNEL_ID = -1002031978775
 
 
 class Bot(Client):
